@@ -1,6 +1,6 @@
 entero a
 inicio
-escriba "a los números mayores de 20 les sume 10s"
+escriba "los nÃºmeros mayores de 20 y menores de 40 les sume 15"
 llamar nueva_linea
 escriba "un numero"
 lea a
